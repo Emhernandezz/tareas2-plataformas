@@ -1,6 +1,5 @@
 # Tarea 2 - Endpoint sencillo en Flask 
 
-Este proyecto es una tarea para la materia de Plataformas Abiertas.  
 Se creó un endpoint con Flask que responde a solicitudes GET.
 
 ##  ¿Qué hace este proyecto?
@@ -43,5 +42,4 @@ http://127.0.0.1:5000/usuarios/api/v1/saludo
 http://127.0.0.1:5000/usuarios/api/v1/saludo?id=123
 ```
 
-¡Gracias por leer!
 Tarea realizada por Emily Hernández✨
